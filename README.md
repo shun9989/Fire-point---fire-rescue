@@ -27,7 +27,7 @@
         <div class="flex items-center space-x-3">
             <span class="bg-red-600 text-white font-bold p-2 rounded-lg shadow-lg"><i class="fa-solid fa-fire-flame-curved"></i></span>
             <div>
-                <h1 class="text-lg font-bold tracking-wider">消防神主牌・救援群島</h1>
+                <h1 class="text-lg font-bold tracking-wider">火線任務・消防救援</h1>
                 <p class="text-xs text-slate-400">V42 直覺化升級版 · 願每一次出勤，都有回家的路</p>
             </div>
         </div>
@@ -114,7 +114,7 @@
                         <span>日期：2026-10-12</span>
                         <span class="text-red-400">#火災學與防護</span>
                     </div>
-                    <p class="font-medium text-slate-200">火場指揮官的任務與危險預判：如何在分秒必爭中確保同仁安全撤退。</p>
+                    <p class="font-medium text-slate-200">火場指揮官的任務與危險預判：在分秒必爭中確保同仁安全撤退。</p>
                 </div>
                 <div class="p-3 bg-slate-800/40 rounded-xl border border-slate-700/50 hover:border-red-500/50 transition">
                     <div class="flex justify-between text-slate-400 text-[10px] mb-1">
